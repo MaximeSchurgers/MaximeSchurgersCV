@@ -14,15 +14,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F08EAA;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FFD4D4;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FAB0DC;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #FCF5F2;
 }
 
 .biography-details li, .skill-list li {
@@ -49,3 +49,17 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.Myname {
+	font-family: 'Montserrat', sans-serif;
+}
+.Undermyname {
+	font-family: 'Montserrat', sans-serif;
+}
+.Headermiddlepart { 
+font-family: 'Montserrat', sans-serif;
+}
+
+.language-progress {
+	Background-color: #F2F0E6; 
+} 
+
